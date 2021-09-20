@@ -1,0 +1,27 @@
+header {
+  nav {
+    background-color: $darkBackgroundColor;
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    .logo {
+      a {
+        font-size: $headerLogoTextSize;
+        color: $headerLogoColor;
+      }
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 1.25rem;
+
+      li {
+        list-style: none;
+        a {
+          font-size: $headerLinkSize;
+          color: $headerLinkColor;
+        }
+      }
+    }
+  }
+}

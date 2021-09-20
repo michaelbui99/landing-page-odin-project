@@ -12,4 +12,45 @@ html {
           box-sizing: inherit;
   font-family: "Open Sans", sans-serif;
 }
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+header nav {
+  background-color: #1f2937;
+  padding-top: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+header nav .logo a {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+header nav .nav-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 1.25rem;
+}
+
+header nav .nav-links li {
+  list-style: none;
+}
+
+header nav .nav-links li a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
 /*# sourceMappingURL=style.css.map */
