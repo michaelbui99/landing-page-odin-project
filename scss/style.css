@@ -187,4 +187,76 @@ header nav .nav-links li a:hover {
   font-size: 22px;
   font-weight: 900;
 }
+
+.cta-bottom-section {
+  background-color: white;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.cta-bottom-section .cta-container {
+  background-color: #3882f6;
+  height: 8rem;
+  border-radius: 8px;
+  padding: 5rem 6rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.cta-bottom-section .cta-container .left {
+  display: block;
+  width: 75%;
+}
+
+.cta-bottom-section .cta-container .left h2 {
+  color: #f9faf8;
+}
+
+.cta-bottom-section .cta-container .left p {
+  color: #e5e7eb;
+}
+
+.cta-bottom-section .cta-container .right {
+  width: 25%;
+}
+
+.cta-bottom-section .cta-container .right button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #3882f6;
+  border-style: solid;
+  border-color: white;
+  border-radius: 8px;
+  border-width: 3px;
+  color: white;
+  font-size: 1.2rem;
+  padding: 0.3rem 2.3rem;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bold;
+  letter-spacing: 1px;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.cta-bottom-section .cta-container .right button:hover {
+  background-color: white;
+  color: #3882f6;
+  opacity: 0.7;
+}
 /*# sourceMappingURL=style.css.map */
