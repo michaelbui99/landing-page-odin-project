@@ -5,11 +5,11 @@ Responsiveness was not an objective and has not been considered in this project.
 
 ## Final Result
 
-<img src="result.png" alt="Screenshot of final result">
+<img src="result.png" alt="Screenshot of final result" style="width:70%; height:70%;">
 
 ## Provided Design and Style guide
 ### Design
-<img src="odin-project-landing-page_design.png" alt="Provided design">
+<img src="odin-project-landing-page_design.png" alt="Provided design" style="width:70%; height:70%;">
 
 ### Style Guide
-<img src="style_guide.png" alt="Provided style guide">
+<img src="style_guide.png" alt="Provided style guide" style="width:70%; height:70%;">
