@@ -77,7 +77,8 @@ header nav .nav-links li a:hover {
 
 .hero-section__left h1 {
   font-size: 48px;
-  font-weight: bolder;
+  font-weight: 900;
+  color: #f9faf8;
 }
 
 .hero-section__left p {
@@ -90,13 +91,14 @@ header nav .nav-links li a:hover {
   margin-top: 0.5rem;
   background-color: #3882f6;
   border: none;
-  padding: 0.25rem 1.8rem;
+  padding: 0.4rem 2rem;
   color: white;
   cursor: pointer;
   font-weight: 600;
-  border-radius: 5px;
+  border-radius: 4px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  font-size: 16px;
 }
 
 .hero-section__left button:hover {
