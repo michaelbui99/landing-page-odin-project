@@ -259,4 +259,23 @@ header nav .nav-links li a:hover {
   color: #3882f6;
   opacity: 0.7;
 }
+
+footer {
+  background-color: #1f2937;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 1.6rem;
+  padding-bottom: 1.6rem;
+}
+
+footer p {
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
