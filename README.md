@@ -5,6 +5,7 @@ Responsiveness was not an objective and has not been considered in this project.
 
 ## Final Result
 Some of the padding and margins are a bit off, but the overall design was captured. 
+
 <img src="result.png" alt="Screenshot of final result" style="width:70%; height:70%;">
 
 ## Provided Design and Style guide
